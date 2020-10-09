@@ -6,7 +6,7 @@ The HR Open Standards - Assessments Work Group has joined with the Spring 2020 x
 
 # Team Update: 10-7-20
 
-Speaker Name Brian Duck or Jim Elder
+Speaker Name Jim Elder or Brian Duck
 
 
 ## Accomplishments for the week:
@@ -16,8 +16,10 @@ Publish and draft review of Assessments Use Case / Data Dictionary with Jim Elde
 Jim Elder met with Kim 
 
 ## Areas where your team may need support:
-Awaiting the October 2020 release of the xAPI Assessments Profile Speciication and the release of xAPI 2.0 standard via IEEE
-
+External Factors:
+xAPI Profile Specfication
+xAPI 2.0 standard to be released via IEEE
+ADL Funded Profile Server to be release for the xAPI Community
 
 ## What you hope to accomplish in the next week:
 Further discussions between xAPI Cohort and HR Open
