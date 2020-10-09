@@ -17,8 +17,8 @@ Jim Elder met with Kim
 
 ## Areas where your team may need support:
 External Factors:
-xAPI Profile Specfication
-xAPI 2.0 standard to be released via IEEE
+xAPI Profile Specfication, 
+xAPI 2.0 standard to be released via IEEE, 
 ADL Funded Profile Server to be release for the xAPI Community
 
 ## What you hope to accomplish in the next week:
