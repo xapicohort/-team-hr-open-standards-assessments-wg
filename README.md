@@ -16,7 +16,7 @@ Publish and draft review of Assessments Use Case / Data Dictionary with Jim Elde
 Jim Elder met with Kim 
 
 ## Areas where your team may need support:
-Awaiting the October 2020 release of the xAPI Assessments Profile and the release of xAPI 2.0 standard via IEEE
+Awaiting the October 2020 release of the xAPI Assessments Profile Speciication and the release of xAPI 2.0 standard via IEEE
 
 
 ## What you hope to accomplish in the next week:
